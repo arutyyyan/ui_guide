@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "9554202350",
+    "firebase_url": "https://uguide-d5adb.firebaseio.com",
+    "project_id": "uguide-d5adb",
+    "storage_bucket": "uguide-d5adb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9554202350:android:9f70e2eab2fa3e2a3aadff",
+        "android_client_info": {
+          "package_name": "startup_mvp.ui_guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9554202350-h8231eeen6f0lf3s464gv7hf5sqotn5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9qvtqR7cjgZNVA8oqMghvB_iPblGJ3g4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9554202350-h8231eeen6f0lf3s464gv7hf5sqotn5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
